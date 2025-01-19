@@ -1,4 +1,4 @@
-# <p align="center">Perfil de Losthotel<br /><img src="https://komarev.com/ghpvc/?username=losthotel&color=blueviolet&style=flat-square&label=Profile+Views" /></p>
+<p align="center">Perfil de Losthotel<br /><img src="https://komarev.com/ghpvc/?username=losthotel&color=blueviolet&style=flat-square&label=Profile+Views" /></p>
 
 ## 🧑 Sobre mim:
 <p align="center">Sou desenvolvedor e Web Designer. Gosto de criar aplicações web e projetar extensões que abrem possibilidades nas linguagens que atuo. Aqui, você verá minha jornada na criação de soluções inovadoras e criativas, softwares e principalmente criar aplicações eficientes, dinâmicas e amigáveis.</p>
