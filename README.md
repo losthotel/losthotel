@@ -1,11 +1,11 @@
-# <p align="center">Perfil de hobbie<br /><img src="https://komarev.com/ghpvc/?username=hobbie-dev1619&color=blueviolet&style=flat-square&label=Profile+Views" /></p>
-<p align="center">Programador especializado em projetar e desenvolver extensões para jogos que abrem possibilidades nas seguintes plataformas de programação: Java, Pawn, JavaScript e Lua. Usuário de Pawno Infernus, Sublime Text, IntelliJ e Visual Studio Code.</p>
+# <p align="center">Perfil de Losthotel<br /><img src="https://komarev.com/ghpvc/?username=losthotel&color=blueviolet&style=flat-square&label=Profile+Views" /></p>
 
 ## 🧑 Sobre mim:
+<p align="center">Sou desenvolvedor e Web Designer. Gosto de criar aplicações web e projetar extensões que abrem possibilidades nas linguagens que atuo. Aqui, você verá minha jornada na criação de soluções inovadoras e criativas, softwares e principalmente criar aplicações eficientes, dinâmicas e amigáveis.</p>
 <p>
 🎓 Programador profissional em plataformas Java e Pawn;<br>
 ☕ Programador experiente na biblioteca `Discord.js` em JavaScript;<br>
-🧩 Programador aprendiz em HTML && CSS (Fullstack);<br>
+🧩 Programador em HTML && CSS (Fullstack);<br>
 🧱 Manager em Medieval Roleplay;<br>
 </p>
 
@@ -21,17 +21,17 @@
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hobbie-dev&count_private=true&theme=dark&show_icons=true" alt="hobbie-dev" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hobbie-dev&hide_border=true&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=losthotel&count_private=true&theme=dark&show_icons=true" alt="losthotel" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=losthotel&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
 ## 📕 Repositórios
 
 <p align="center">
-	<a href="https://github.com/hobbie-dev/minecraft-bot-javascript/">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hobbie-dev&repo=minecraft-bot-javascript&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/losthotel/minecraft-bot-javascript/">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=losthotel&repo=minecraft-bot-javascript&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-	<a href="https://github.com/hobbie-dev/ban-js">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hobbie-dev&repo=ban-js&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/losthotel/ban-js">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=losthotel&repo=ban-js&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
